@@ -1,0 +1,6 @@
+[submodule "3rdparty/Zhele"]
+	path = 3rdparty/Zhele
+	url = https://github.com/azhel12/Zhele.git
+[submodule "3rdparty/wch_cmake"]
+	path = 3rdparty/wch_cmake
+	url = https://github.com/azhel12/wch_cmake.git

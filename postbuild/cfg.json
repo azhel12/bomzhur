@@ -1,0 +1,6 @@
+{
+    "bootloader_size_in_bytes": "0x800",
+    "firmware_size_in_bytes": "0x1C00",
+    "application_size": "0x1BF4",
+    "update_counter": "0x00000000"
+}
